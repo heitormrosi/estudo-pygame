@@ -2,7 +2,7 @@
 
 # Estudo sobre Pygame
 
-## Implementações e respostas de exercícios dos livros "Program Arcade Games: with Python and Pygame", do Dr. Paul Vincent Craven, quarta edição, e "Python Games from Zero to Proficiency (Beginner)", de Patrick Felicia.
+### Implementações e respostas de exercícios dos livros "Program Arcade Games: with Python and Pygame", do Dr. Paul Vincent Craven, quarta edição, e "Python Games from Zero to Proficiency (Beginner)", de Patrick Felicia.
 
 ## Descrição dos livros
 
@@ -17,7 +17,7 @@
 
  - Program Arcade Games: with Python and Pygame, 4 ed. Dr. Paul Vincent Craven
     1. Antes de começar... (Before Getting Started)
-    2. [Crie uma calculadora personalizada (Create a Custom Calculator)](./program_arcade_games/2-calculadora-personalizada/2-calculadora-personalizada.md)
+    2. [Crie uma calculadora personalizada (Create a Custom Calculator)](./program_arcade_games/2-calculadora-personalizada/)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
